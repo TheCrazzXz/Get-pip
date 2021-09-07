@@ -1,2 +1,2 @@
-python2 Get-pip.py
+python2 get-pip.py
 pip2 install --upgrade pip
